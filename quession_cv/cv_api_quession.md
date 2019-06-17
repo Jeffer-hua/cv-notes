@@ -1,6 +1,6 @@
-##### opencv中一些api的理解
+### opencv中一些api的理解
 
-1. quession : 视频读取时， if cv2.waitKey(1) & 0xFF == ord('q'): break的解释
+##### 1. quession : 视频读取时， if cv2.waitKey(1) & 0xFF == ord('q'): break的解释
 ```
 On some systems, waitKey() may return a value that encodes more than just the ASCII keycode. 
 On all systems, we can ensure that we extract just the ASCII keycode by reading the last byte from the return value like this: 

@@ -33,5 +33,10 @@ systemctl daemon-reload
 ---
 3. service文件配置参数
 - [Unit]
+![image](https://github.com/Jeffer-hua/cv-notes/blob/master/img/20181018215756777.png)
 - [Service]
+![image](https://github.com/Jeffer-hua/cv-notes/blob/master/img/20181018215756294.png)
+![image](https://github.com/Jeffer-hua/cv-notes/blob/master/img/20181018215748439.png)
 - [install]
+![image](https://github.com/Jeffer-hua/cv-notes/blob/master/img/20181018215751502.png)
+  
